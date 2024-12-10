@@ -11,7 +11,7 @@ This repository focuses on probability distributions, inferential statistics, an
 **1.** __*Probability Distributions*__
 Learn about various probability distributions and their characteristics with interactive examples:
 
-**a.** __*Binomial Distribution.ipynb:*__ <br>
+**a.** __*Binomial Distribution.ipynb:*__ 
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
 * Includes real-world examples such as coin tosses and quality control. <br>
 **b.** __*Normal Distribution.ipynb:*__
