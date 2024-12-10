@@ -13,22 +13,22 @@ Learn about various probability distributions and their characteristics with int
 
 **a.** __*Binomial Distribution:*__ 
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
-* Includes real-world examples such as coin tosses and quality control. 
+* Includes real-world examples such as coin tosses and quality control. <br>
 **b.** __*Normal Distribution:*__
 * Focuses on the bell-shaped curve, its properties, and applications.
-* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. 
+* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. <br> 
 **c.** __*Uniform Distribution:*__
 * Explores both discrete and continuous uniform distributions.
-* Includes visualizations and practical examples. 
+* Includes visualizations and practical examples. <br>
 **d.** __*pdf&cdf:*__
 * Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
 * Demonstrates their use in analyzing probability distributions. 
 
 ## **2.** __*Statistical Concepts*__ 
-**a** __*CLT:*__
+**a.** __*CLT:*__
 * Covers the Central Limit Theorem and its significance in sampling distributions. <br>
 * Includes visual demonstrations and practical implications. 
-**b** __*Estimations:*__
+**b.** __*Estimations:*__
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
 
