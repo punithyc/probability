@@ -8,7 +8,7 @@ This repository focuses on probability distributions, inferential statistics, an
 * Practical notebooks to understand key statistical concepts like the Central Limit Theorem and confidence intervals.
 * Real-world case studies to apply statistical methods to solve business problems.
 
-**1.** __*Probability Distributions*__
+## **1.** __*Probability Distributions*__
 Learn about various probability distributions and their characteristics with interactive examples:
 
 **a.** __*Binomial Distribution.ipynb:*__ 
