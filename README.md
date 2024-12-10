@@ -9,7 +9,7 @@ This repository focuses on probability distributions, inferential statistics, an
 * Real-world case studies to apply statistical methods to solve business problems.
 
 **1.** __*Probability Distributions*__
-Learn about various probability distributions and their characteristics with interactive examples:<br>
+Learn about various probability distributions and their characteristics with interactive examples:
 
 **a.** __*Binomial Distribution.ipynb:*__ <br>
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
