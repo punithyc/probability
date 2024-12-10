@@ -9,19 +9,19 @@ This repository focuses on probability distributions, inferential statistics, an
 * Real-world case studies to apply statistical methods to solve business problems.
 
 **1.** __*Probability Distributions*__
-Learn about various probability distributions and their characteristics with interactive examples:
+Learn about various probability distributions and their characteristics with interactive examples:<br>
 
-**a.** __*Binomial Distribution.ipynb:*__
+**a.** __*Binomial Distribution.ipynb:*__ <br>
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
-* Includes real-world examples such as coin tosses and quality control.
+* Includes real-world examples such as coin tosses and quality control. <br>
 **b.** __*Normal Distribution.ipynb:*__
 * Focuses on the bell-shaped curve, its properties, and applications.
-* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule.
+* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. <br>
 **c.** __*Uniform Distribution.ipynb:*__
 * Explores both discrete and continuous uniform distributions.
-* Includes visualizations and practical examples.
+* Includes visualizations and practical examples. <br>
 **d.** __*pdf&cdf:*__
 * Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
-* Demonstrates their use in analyzing probability distributions.
+* Demonstrates their use in analyzing probability distributions. <br>
 
 
