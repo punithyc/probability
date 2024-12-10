@@ -8,4 +8,20 @@ This repository focuses on probability distributions, inferential statistics, an
 * Practical notebooks to understand key statistical concepts like the Central Limit Theorem and confidence intervals.
 * Real-world case studies to apply statistical methods to solve business problems.
 
+**1.** __*Probability Distributions*__
+Learn about various probability distributions and their characteristics with interactive examples:
+
+**a.** __*Binomial Distribution.ipynb:*__
+* Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
+* Includes real-world examples such as coin tosses and quality control.
+**b.** __*Normal Distribution.ipynb:*__
+* Focuses on the bell-shaped curve, its properties, and applications.
+* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule.
+**c.** __*Uniform Distribution.ipynb:*__
+* Explores both discrete and continuous uniform distributions.
+* Includes visualizations and practical examples.
+**d.** __*pdf&cdf:*__
+* Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
+* Demonstrates their use in analyzing probability distributions.
+
 
