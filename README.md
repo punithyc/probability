@@ -11,13 +11,13 @@ This repository focuses on probability distributions, inferential statistics, an
 ## **1.** __*Probability Distributions*__
 Learn about various probability distributions and their characteristics with interactive examples:
 
-**a.** __*Binomial Distribution.ipynb:*__ 
+**a.** __*Binomial Distribution:*__ 
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
 * Includes real-world examples such as coin tosses and quality control. <br>
-**b.** __*Normal Distribution.ipynb:*__
+**b.** __*Normal Distribution:*__
 * Focuses on the bell-shaped curve, its properties, and applications.
 * Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. <br>
-**c.** __*Uniform Distribution.ipynb:*__
+**c.** __*Uniform Distribution:*__
 * Explores both discrete and continuous uniform distributions.
 * Includes visualizations and practical examples. <br>
 **d.** __*pdf&cdf:*__
@@ -25,18 +25,18 @@ Learn about various probability distributions and their characteristics with int
 * Demonstrates their use in analyzing probability distributions. <br>
 
 ## **2.** __*Statistical Concepts*__ <br>
-*__CLT:__*
+**a** __*CLT:*__
 * Covers the Central Limit Theorem and its significance in sampling distributions.
 * Includes visual demonstrations and practical implications. <br>
-*__Estimations:__*
+**b** __*Estimations:*__
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
 
 ##  **3.** *__Real-World Case Studies__*<br>
 
-*__Medicon_Case_Study:__*<br>
+**a** *__Medicon_Case_Study:__*
 * Analyzes healthcare data to derive insights using inferential statistics.<br>
-*__Microsoft_Stock_Price_Case_Study:__*
+**b** *__Microsoft_Stock_Price_Case_Study:__*
 * Explores stock price data using probability distributions and statistical methods.<br>
-*__Talent_Hunt_Examination_Case_Study:__*
+**c** *__Talent_Hunt_Examination_Case_Study:__*
 * Investigates examination performance data using statistical techniques.
