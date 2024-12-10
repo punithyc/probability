@@ -24,4 +24,11 @@ Learn about various probability distributions and their characteristics with int
 * Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
 * Demonstrates their use in analyzing probability distributions. <br>
 
+**2.** __*Statistical Concepts*__
+*__CLT:__*
+* Covers the Central Limit Theorem and its significance in sampling distributions.
+* Includes visual demonstrations and practical implications.
+*__Estimations:__*
+* Explores point estimation and interval estimation.
+* Introduces confidence intervals and margin of error.
 
