@@ -32,3 +32,11 @@ Learn about various probability distributions and their characteristics with int
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
 
+  **3.** *__Real-World Case Studies__*<br>
+
+*__Medicon_Case_Study:__*<br>
+* Analyzes healthcare data to derive insights using inferential statistics.
+*__Microsoft_Stock_Price_Case_Study:__*
+* Explores stock price data using probability distributions and statistical methods.
+*__Talent_Hunt_Examination_Case_Study:__*
+* Investigates examination performance data using statistical techniques.
