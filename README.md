@@ -24,7 +24,7 @@ Learn about various probability distributions and their characteristics with int
 * Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
 * Demonstrates their use in analyzing probability distributions. <br>
 
-## **2.** __*Statistical Concepts*__ <br>
+## **2.** __*Statistical Concepts*__ 
 **a** __*CLT:*__
 * Covers the Central Limit Theorem and its significance in sampling distributions.
 * Includes visual demonstrations and practical implications. <br>
@@ -32,11 +32,11 @@ Learn about various probability distributions and their characteristics with int
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
 
-##  **3.** *__Real-World Case Studies__*<br>
+##  **3.** *__Real-World Case Studies__*
 
-**a** *__Medicon_Case_Study:__*
+**a.** *__Medicon_Case_Study:__*
 * Analyzes healthcare data to derive insights using inferential statistics.<br>
-**b** *__Microsoft_Stock_Price_Case_Study:__*
+**b.** *__Microsoft_Stock_Price_Case_Study:__*
 * Explores stock price data using probability distributions and statistical methods.<br>
-**c** *__Talent_Hunt_Examination_Case_Study:__*
+**c.** *__Talent_Hunt_Examination_Case_Study:__*
 * Investigates examination performance data using statistical techniques.
