@@ -26,8 +26,8 @@ Learn about various probability distributions and their characteristics with int
 
 ## **2.** __*Statistical Concepts*__ 
 **a.** __*CLT:*__
-* Covers the Central Limit Theorem and its significance in sampling distributions. <br>
-* Includes visual demonstrations and practical implications. 
+* Covers the Central Limit Theorem and its significance in sampling distributions. 
+* Includes visual demonstrations and practical implications. <br>
 **b.** __*Estimations:*__
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
