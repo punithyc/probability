@@ -13,21 +13,21 @@ Learn about various probability distributions and their characteristics with int
 
 **a.** __*Binomial Distribution:*__ 
 * Explains the discrete probability distribution for scenarios with two outcomes (success/failure).
-* Includes real-world examples such as coin tosses and quality control. <br>
+* Includes real-world examples such as coin tosses and quality control. 
 **b.** __*Normal Distribution:*__
 * Focuses on the bell-shaped curve, its properties, and applications.
-* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. <br>
+* Covers concepts such as mean, standard deviation, and the 68-95-99.7 rule. 
 **c.** __*Uniform Distribution:*__
 * Explores both discrete and continuous uniform distributions.
-* Includes visualizations and practical examples. <br>
+* Includes visualizations and practical examples. 
 **d.** __*pdf&cdf:*__
 * Explains Probability Density Functions (PDF) and Cumulative Distribution Functions (CDF).
-* Demonstrates their use in analyzing probability distributions. <br>
+* Demonstrates their use in analyzing probability distributions. 
 
 ## **2.** __*Statistical Concepts*__ 
 **a** __*CLT:*__
 * Covers the Central Limit Theorem and its significance in sampling distributions.
-* Includes visual demonstrations and practical implications. <br>
+* Includes visual demonstrations and practical implications. 
 **b** __*Estimations:*__
 * Explores point estimation and interval estimation.
 * Introduces confidence intervals and margin of error.
@@ -35,8 +35,8 @@ Learn about various probability distributions and their characteristics with int
 ##  **3.** *__Real-World Case Studies__*
 
 **a.** *__Medicon_Case_Study:__*
-* Analyzes healthcare data to derive insights using inferential statistics.<br>
+* Analyzes healthcare data to derive insights using inferential statistics.
 **b.** *__Microsoft_Stock_Price_Case_Study:__*
-* Explores stock price data using probability distributions and statistical methods.<br>
+* Explores stock price data using probability distributions and statistical methods.
 **c.** *__Talent_Hunt_Examination_Case_Study:__*
 * Investigates examination performance data using statistical techniques.
