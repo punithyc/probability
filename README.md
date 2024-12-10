@@ -26,7 +26,7 @@ Learn about various probability distributions and their characteristics with int
 
 ## **2.** __*Statistical Concepts*__ 
 **a** __*CLT:*__
-* Covers the Central Limit Theorem and its significance in sampling distributions.
+* Covers the Central Limit Theorem and its significance in sampling distributions. <br>
 * Includes visual demonstrations and practical implications. 
 **b** __*Estimations:*__
 * Explores point estimation and interval estimation.
@@ -35,8 +35,8 @@ Learn about various probability distributions and their characteristics with int
 ##  **3.** *__Real-World Case Studies__*
 
 **a.** *__Medicon_Case_Study:__*
-* Analyzes healthcare data to derive insights using inferential statistics.
+* Analyzes healthcare data to derive insights using inferential statistics.<br>
 **b.** *__Microsoft_Stock_Price_Case_Study:__*
-* Explores stock price data using probability distributions and statistical methods.
+* Explores stock price data using probability distributions and statistical methods.<br>
 **c.** *__Talent_Hunt_Examination_Case_Study:__*
-* Investigates examination performance data using statistical techniques.
+* Investigates examination performance data using statistical techniques.<br>
